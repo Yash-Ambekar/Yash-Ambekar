@@ -1,22 +1,23 @@
-### <div align = "center"> Hello there 👋</div>
-
-
+### <div align = "center"> Hey there! 👋</div>
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif?cid=ecf05e470ghjgjnuqf25degbdnnbfdzxb4xhqhzhiq4tbjbf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="350" height = "200"/>
+  <img src="https://media3.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="350" height = "200"/>
+  <br/><br/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/yash-ambekar/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height = "20"/>
   </a>
   <a href="https://www.yashambekar03.wordpress.com">
-    <img src="https://img.shields.io/badge/Wordpress-blue?style=for-the-badge&logo=wordpress&color=%230073aa" alt="wordpress Badge"/>
+    <img src="https://img.shields.io/badge/Wordpress-blue?style=for-the-badge&logo=wordpress&color=%230073aa" alt="wordpress Badge" height = "20"/>
   </a>
   <a href="https://twitter.com/Yash_Ambekar_03">
-    <img src="https://img.shields.io/twitter/follow/Yash_Ambekar_03" alt="Twitter Badge" height = "28"/>
+    <img src="https://img.shields.io/twitter/follow/Yash_Ambekar_03" alt="Twitter Badge" height = "20"/>
   </a>
 </div>
 </div>
 
+<hr/>
 
+### 🧑🏻‍💻 About Me 
 ```json
 {
   "name": "Yash Anil Ambekar",
